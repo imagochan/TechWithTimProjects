@@ -1,0 +1,2 @@
+Ejercicio 1: crear un sistema de login en consola que guarde datos en un archivo de texto
+-este ejercicio se puede expandir a conectar con una base de datos real
