@@ -3,6 +3,9 @@
 #, usar un case para que en cualquier otro caso se comporte normal
 # luego 
 
+#falta manejar casos donde el archivo de credenciales no existe
+#una solución fácil sería crear el archivo si no existe no mas al arrancar este código.
+
 #import sys
 import json
 
